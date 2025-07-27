@@ -18,7 +18,3 @@ Given the retrieved documents are irrelevant, incorrect, or incomplete for a que
 RQ 4:
 What are pros and cons for using additional retrieved, external knowledge vs. parametric, internal knowledge to interpolate knowledge gaps in external contexts for RAG?
 
-Required skills & experiences:
-Retrieval Augmented Generation, LLM prompting strategies, understanding of LLM reasoning models (e.g, DeepSeek-R1, OpenAI o1 and o3-mini, etc.), document retrieval and text embeddings (e.g, sentence embeddings etc.), vector databases (e.g, Weaviate, Pinecone, etc.).
-
-Beneficial skills & experiences: LLM agents and tool use, graph databases (RDF graphs, Neo4j, etc.), LLM fine-tuning.
